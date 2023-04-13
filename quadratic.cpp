@@ -1,7 +1,7 @@
 /*
  * quadratic.cpp
  *
- * COP 4531, Project 2
+ * Data Structures & Algorithms, Project 2
  * Wendy Slattery
  * 4/7/20 (corona apocalypse)
  *
